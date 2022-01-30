@@ -11,9 +11,9 @@ pi = 3.14159
 
 trian = (A*C)/2
 circ = pi*C**2
-trap = ((A+B)*C)/2
-quadr = B*B
-retan = B*A
+trap = ((A+B)*C) / 2
+quadr = B * B
+retan = B * A
 
 print("TRIANGULO: {:.3f}".format(trian))
 print("CIRCULO: {:.3f}".format(circ))

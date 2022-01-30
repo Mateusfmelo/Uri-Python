@@ -1,4 +1,4 @@
-nmr = str (input())
+nmr = int (input())
 hr = int (input())
 sal = float (input())
 print('NUMBER = {}'.format(nmr))
